@@ -1,16 +1,23 @@
-## Hi there 👋
+# Digital Forensics & Incident Response (DFIR) Portfolio
 
-<!--
-**YOUR-DFIR/Your-DFIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I’m Bhanu Prakash Rayabandi.  
+I specialize in **Digital Forensics, Incident Response (DFIR), SOC operations, and malware analysis.**  
+This repository contains case studies and projects that demonstrate my skills in real-world scenarios.
 
-Here are some ideas to get you started:
+## 🔍 Contents
+- **Windows Forensics** – Artifact analysis, timelines, event logs
+- **Memory Forensics** – Volatility, malware hunting
+- **Network Forensics** – PCAP analysis, C2 detection
+- **Incident Reports** – Professional-style IR reports
+- **Projects** – Ransomware detection, malware labs, SIEM use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+- Forensics: FTK Imager, Autopsy, Volatility, KAPE, Velociraptor  
+- SOC & Detection: Splunk, ELK, Sigma, MITRE ATT&CK  
+- Networking: Wireshark, Zeek, NetFlow  
+- OS: Windows, Linux  
+- Scripting: Python, Bash, Go  
+
+---
+
+⚡ Follow this repo as I publish **DFIR case studies and reports**.
